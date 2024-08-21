@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Gonzalez</h1>
-<h3 align="center">A Full-Stack Developer from Cuba</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/kevjetsky" target="blank"><img src="https://img.shields.io/twitter/follow/kevjetsky?logo=twitter&style=for-the-badge" alt="kevjetsky" /></a> </p>
 
